@@ -16,10 +16,13 @@ p {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
-h3 {
+h5 {
+  justify-content: center;
   color: #4aaaa5;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
+  /* padding: 0px;
+  margin-right: 40px; */
 }
 
 html {
@@ -50,6 +53,11 @@ main {
 }
 
 /* NAV START */
+#logo{
+  font-family: 'Yesteryear', cursive;
+  font-family: 'Rouge Script', cursive;
+  font-size: 35px;
+}
 /* #logo {
      font-family: Georgia, Times, "Times New Roman", serif;
     font-size: 30px;
@@ -92,9 +100,11 @@ main {
 
   /* text-decoration-color: white; */
 }
-#about image {
+#about-image {
   margin-bottom: 40px;
   margin-top: 10px;
+  border-radius: 50%;
+  filter: grayscale(1);
 }
 
 /* media query for nav background color change */
