@@ -83,7 +83,8 @@ main {
 }
 
 .navbar {
-  background: black;
+  background:black;
+  /* background:teal; */
   /* padding: 5px 10px 5px 10px;
     margin-left: 15px;
     line-height: 18px; */
@@ -95,6 +96,12 @@ main {
   display: flex;
   opacity: 100%;
 }
+ 
+
+/* .navbar navbar navbar-expand-lg navbar-dark bg-black navbar{
+  color:black;
+  background: black;
+} */
 .p {
   text-decoration-color: teal;
 
