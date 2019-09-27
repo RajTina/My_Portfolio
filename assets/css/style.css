@@ -6,6 +6,10 @@ body {
   /* background-image: url("../imgs/ignasi_pattern_s.png");  */
 }
 
+ul {
+  list-style-type: none;
+  }
+
 /* body.container1{
     background-image: url("../imgs/6777320-best-wallpaper.jpg");
     background-repeat: no-repeat;
@@ -21,8 +25,8 @@ h5 {
   color: #4aaaa5;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
-  /* padding: 0px;
-  margin-right: 40px; */
+   padding: 0px;
+  /* margin-right: 40px;  */
 }
 
 html {
