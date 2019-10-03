@@ -6,9 +6,10 @@ body {
   /* background-image: url("../imgs/ignasi_pattern_s.png");  */
 }
 
-ul {
+
+/* ul {
   list-style-type: none;
-  }
+  } */
 
 /* body.container1{
     background-image: url("../imgs/6777320-best-wallpaper.jpg");
@@ -84,6 +85,7 @@ main {
 .navbar-default .navbar-nav > li > a:hover {
   /* color: #4aaaa5; */
   color: black;
+  
 }
 
 .navbar {
@@ -94,7 +96,7 @@ main {
     line-height: 18px; */
   color: black;
   /* color: #999;  */
-  text-decoration: none;
+  text-decoration-color: teal;
   /* border-left: 1px solid #efefef;  */
   margin-top: 10px;
   display: flex;
