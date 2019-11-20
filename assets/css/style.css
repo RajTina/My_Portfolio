@@ -3,6 +3,8 @@ body {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   color: #777777;
   background-image: url("../imgs/6777320-best-wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   /* background-image: url("../imgs/ignasi_pattern_s.png");  */
 }
 
@@ -242,5 +244,6 @@ main {
 /* END CONTACT FORM PAGE */
 
 ul{
-  margin-bottom: 20px ;
+  justify-content: center;
+  
 }
