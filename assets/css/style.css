@@ -8,6 +8,17 @@ body {
   /* background-image: url("../imgs/ignasi_pattern_s.png");  */
 }
 
+h2{
+  color: white;
+}
+
+div.card-body{
+  background-color: black;
+}
+.card-title {
+  width : 100px;
+  height: 100px;
+}
 
 /* ul {
   list-style-type: none;
@@ -19,13 +30,15 @@ body {
     background-size: 100%;
   } */
 p {
-  color: #4aaaa5;
+  /* color: #4aaaa5; */
+  color: white;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
 h5 {
   justify-content: center;
-  color: #4aaaa5;
+  /* color: #4aaaa5; */
+  color: white;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
    padding: 0px;
@@ -54,7 +67,8 @@ main {
 
 .block-header {
   /* Typography */
-  color: #4aaaa5;
+  /* color: #4aaaa5; */
+  color: white;
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
@@ -92,6 +106,7 @@ main {
 
 .navbar {
   background:black;
+  color: #777777;
   /* background:teal; */
   /* padding: 5px 10px 5px 10px;
     margin-left: 15px;
@@ -111,9 +126,9 @@ main {
   background: black;
 } */
 .p {
-  text-decoration-color: teal;
+  /* text-decoration-color: teal; */
 
-  /* text-decoration-color: white; */
+  text-decoration-color: white;
 }
 #about-image {
   margin-bottom: 40px;
